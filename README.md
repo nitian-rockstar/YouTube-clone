@@ -20,7 +20,7 @@ This project is a **simple clone of YouTube's UI**, built using **HTML and CSS**
    ```bash
    git clone https://github.com/your-username/your-repo.git
    ```
-2. Open `index.html` in your browser.  
+2. Open `youtube.html` in your browser.  
 
 #### **Future Improvements:**  
 🔹 Add JavaScript for interactivity  
