@@ -13,8 +13,7 @@ This project is a **simple clone of YouTube's UI**, built using **HTML and CSS**
 - **HTML** for structure  
 - **CSS** for styling and layout  
 
-#### **Live Demo (if hosted):**  
-[Add GitHub Pages link here]  
+ 
 
 #### **How to Use:**  
 1. Clone the repository:  
